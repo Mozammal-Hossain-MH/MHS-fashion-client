@@ -1,0 +1,57 @@
+#wave1 {
+    z-index: 10;
+    opacity: 1;
+    bottom: 0;
+    animation: animateWave 12s linear infinite;
+}
+#wave2 {
+    z-index: 9;
+    opacity: 0.5;
+    bottom: 10px;
+    animation: animateWave_2 12s linear infinite;
+}
+#wave3 {
+    z-index: 8;
+    opacity: 0.7;
+    bottom: 20px;
+    animation: animateWave_3 12s linear infinite;
+}
+#wave4 {
+    z-index: 7;
+    opacity: 0.2;
+    bottom: 30px;
+    animation: animateWave_4 12s linear infinite;
+}
+
+@keyframes animateWave {
+    0% {
+        background-position-x: 1000px;
+    }
+    100% {
+        background-position-x: 0px;
+    }
+}
+@keyframes animateWave_2 {
+    0% {
+        background-position-x: 0px;
+    }
+    100% {
+        background-position-x: 1000px;
+    }
+}
+@keyframes animateWave_3 {
+    0% {
+        background-position-x: 100px;
+    }
+    100% {
+        background-position-x: 500px;
+    }
+}
+@keyframes animateWave_4 {
+    0% {
+        background-position-x: 300px;
+    }
+    100% {
+        background-position-x: 700px;
+    }
+}

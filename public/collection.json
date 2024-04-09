@@ -1,0 +1,753 @@
+[
+    {
+        "name": "New Cherry Black & Blue Digital #650",
+        "code": "PANJABI01",
+        "img": [
+            "https://i.ibb.co/MnLbkmV/panjabi1.jpg"
+        ],
+        "description": "Eid special Digital, PANJABI COLLECTION, Printed Panjabi, Summer Panjabi",
+        "offerPrice": 1015,
+        "price": 1450,
+        "onStock": 10,
+        "category": "panjabi",
+        "specialCategory": "Printed Panjabi",
+        "speciality": "new arrival",
+        "tag": "fensi cotton",
+        "gender": "male",
+        "sizes": [
+            {
+                "size": 38,
+                "qty": 1
+            },
+            {
+                "size": 40,
+                "qty": 3
+            },
+            {
+                "size": 42,
+                "qty": 6
+            },
+            {
+                "size": 44,
+                "qty": 0
+            }
+        ]
+    },
+    {
+        "name": "Black Ocean Digital Print #600",
+        "code": "PANJABI02",
+        "img": [
+            "https://i.ibb.co/r4n3DHm/panjabi4.jpg"
+        ],
+        "description": "PANJABI COLLECTION, Printed Panjabi, MEN'S FASHION",
+        "offerPrice": 952,
+        "price": 1360,
+        "onStock": 10,
+        "category": "panjabi",
+        "specialCategory": "Printed Panjabi",
+        "speciality": "popular",
+        "tag": "fensi cotton",
+        "gender": "male",
+        "sizes": [
+            {
+                "size": 38,
+                "qty": 1
+            },
+            {
+                "size": 40,
+                "qty": 3
+            },
+            {
+                "size": 42,
+                "qty": 6
+            },
+            {
+                "size": 44,
+                "qty": 0
+            }
+        ]
+    },
+    {
+        "name": "Eid Collection 2024 Master Embroidery Kof #800",
+        "code": "PANJABI03",
+        "img": [
+            "https://i.ibb.co/gdzmwzw/panjabi2.jpg"
+        ],
+        "description": "PANJABI COLLECTION, Embroidery Panjabi, Luxury Panjabi",
+        "offerPrice": 1190,
+        "price": 1700,
+        "onStock": 10,
+        "category": "panjabi",
+        "specialCategory": "Embroidery Panjabi",
+        "speciality": "popular",
+        "tag": "fensi cotton",
+        "gender": "male",
+        "sizes": [
+            {
+                "size": 38,
+                "qty": 1
+            },
+            {
+                "size": 40,
+                "qty": 3
+            },
+            {
+                "size": 42,
+                "qty": 6
+            },
+            {
+                "size": 44,
+                "qty": 0
+            }
+        ]
+    },
+    {
+        "name": "Eid Collection 2024 Light Teal Embroidery Kof #800",
+        "code": "PANJABI04",
+        "img": [
+            "https://i.ibb.co/47x66Ct/panjabi3.jpg"
+        ],
+        "description": "PANJABI COLLECTION, Embroidery Panjabi, Luxury Panjabi",
+        "offerPrice": 1190,
+        "price": 1700,
+        "onStock": 10,
+        "category": "panjabi",
+        "specialCategory": "Embroidery Panjabi",
+        "speciality": "new arrival",
+        "tag": "fensi cotton",
+        "gender": "male",
+        "sizes": [
+            {
+                "size": 38,
+                "qty": 1
+            },
+            {
+                "size": 40,
+                "qty": 3
+            },
+            {
+                "size": 42,
+                "qty": 6
+            },
+            {
+                "size": 44,
+                "qty": 0
+            }
+        ]
+    },
+    {
+        "name": "New C Green Digital#600",
+        "code": "PANJABI05",
+        "img": [
+            "https://i.ibb.co/b6xv1Mv/panjabi5.jpg"
+        ],
+        "description": "PANJABI COLLECTION, Printed Panjabi, Trandy Panjabi, MEN'S FASHION",
+        "offerPrice": 952,
+        "price": 1360,
+        "onStock": 10,
+        "category": "panjabi",
+        "specialCategory": "Trendy Panjabi",
+        "speciality": "trendy",
+        "tag": "fensi cotton",
+        "gender": "male",
+        "sizes": [
+            {
+                "size": 38,
+                "qty": 1
+            },
+            {
+                "size": 40,
+                "qty": 3
+            },
+            {
+                "size": 42,
+                "qty": 6
+            },
+            {
+                "size": 44,
+                "qty": 0
+            }
+        ]
+    },
+    {
+        "name": "New Deep Green leaf #530",
+        "code": "PANJABI06",
+        "img": [
+            "https://i.ibb.co/HF4T6Zz/panjabi6.jpg"
+        ],
+        "description": "PANJABI COLLECTION, Printed Panjabi, Trandy Panjabi, MEN'S FASHION",
+        "offerPrice": 875,
+        "price": 1250,
+        "onStock": 10,
+        "category": "panjabi",
+        "specialCategory": "Trendy Panjabi",
+        "speciality": "trendy",
+        "tag": "fensi cotton",
+        "gender": "male",
+        "sizes": [
+            {
+                "size": 38,
+                "qty": 1
+            },
+            {
+                "size": 40,
+                "qty": 3
+            },
+            {
+                "size": 42,
+                "qty": 6
+            },
+            {
+                "size": 44,
+                "qty": 0
+            }
+        ]
+    },
+    {
+        "name": "Premium Polo",
+        "code": "POLO190",
+        "img": [
+            "https://i.ibb.co/Q6GkvzL/polo1.jpg"
+        ],
+        "description": "POLO COLLECTION",
+        "offerPrice": 750,
+        "price": 890,
+        "onStock": 10,
+        "category": "polo",
+        "specialCategory": "Premium Polo",
+        "speciality": "new arrival",
+        "tag": "Premium Polo",
+        "gender": "male",
+        "sizes": [
+            {
+                "size": 38,
+                "qty": 1
+            },
+            {
+                "size": 40,
+                "qty": 3
+            },
+            {
+                "size": 42,
+                "qty": 6
+            },
+            {
+                "size": 44,
+                "qty": 0
+            }
+        ]
+    },
+    {
+        "name": "Premium Polo",
+        "code": "POLO191",
+        "img": [
+            "https://i.ibb.co/Dz8xwmQ/polo2.jpg"
+        ],
+        "description": "POLO COLLECTION",
+        "offerPrice": 750,
+        "price": 890,
+        "onStock": 10,
+        "category": "polo",
+        "specialCategory": "Premium Polo",
+        "speciality": "new arrival",
+        "tag": "Premium Polo",
+        "gender": "male",
+        "sizes": [
+            {
+                "size": 38,
+                "qty": 1
+            },
+            {
+                "size": 40,
+                "qty": 3
+            },
+            {
+                "size": 42,
+                "qty": 6
+            },
+            {
+                "size": 44,
+                "qty": 0
+            }
+        ]
+    },
+    {
+        "name": "Premium Polo",
+        "code": "POLO192",
+        "img": [
+            "https://i.ibb.co/KyNL5RT/polo3.jpg"
+        ],
+        "description": "POLO COLLECTION",
+        "offerPrice": 750,
+        "price": 890,
+        "onStock": 10,
+        "category": "polo",
+        "specialCategory": "Premium Polo",
+        "speciality": "trendy",
+        "tag": "Premium Polo",
+        "gender": "male",
+        "sizes": [
+            {
+                "size": 38,
+                "qty": 1
+            },
+            {
+                "size": 40,
+                "qty": 3
+            },
+            {
+                "size": 42,
+                "qty": 6
+            },
+            {
+                "size": 44,
+                "qty": 0
+            }
+        ]
+    },
+    {
+        "name": "Premium Polo",
+        "code": "POLO193",
+        "img": [
+            "https://i.ibb.co/MRPSLJk/polo4.jpg"
+        ],
+        "description": "POLO COLLECTION",
+        "offerPrice": 750,
+        "price": 890,
+        "onStock": 10,
+        "category": "polo",
+        "specialCategory": "Premium Polo",
+        "speciality": "popular",
+        "tag": "Premium Polo",
+        "gender": "male",
+        "sizes": [
+            {
+                "size": 38,
+                "qty": 1
+            },
+            {
+                "size": 40,
+                "qty": 3
+            },
+            {
+                "size": 42,
+                "qty": 6
+            },
+            {
+                "size": 44,
+                "qty": 0
+            }
+        ]
+    },
+    {
+        "name": "Solid Polo",
+        "code": "POLO194",
+        "img": [
+            "https://i.ibb.co/zV8X2St/polo5.jpg"
+        ],
+        "description": "POLO COLLECTION",
+        "offerPrice": 820,
+        "price": 1050,
+        "onStock": 10,
+        "category": "polo",
+        "specialCategory": "Solid Polo",
+        "speciality": "trendy",
+        "tag": "Solid Polo",
+        "gender": "male",
+        "sizes": [
+            {
+                "size": 38,
+                "qty": 1
+            },
+            {
+                "size": 40,
+                "qty": 3
+            },
+            {
+                "size": 42,
+                "qty": 6
+            },
+            {
+                "size": 44,
+                "qty": 0
+            }
+        ]
+    },
+    {
+        "name": "Solid Polo",
+        "code": "POLO195",
+        "img": [
+            "https://i.ibb.co/9YCLs5L/polo6.jpg"
+        ],
+        "description": "POLO COLLECTION",
+        "offerPrice": 820,
+        "price": 1050,
+        "onStock": 10,
+        "category": "polo",
+        "specialCategory": "Solid Polo",
+        "speciality": "trendy",
+        "tag": "Solid Polo",
+        "gender": "male",
+        "sizes": [
+            {
+                "size": 38,
+                "qty": 1
+            },
+            {
+                "size": 40,
+                "qty": 3
+            },
+            {
+                "size": 42,
+                "qty": 6
+            },
+            {
+                "size": 44,
+                "qty": 0
+            }
+        ]
+    },
+    {
+        "name": "PREMIUM SHIRT",
+        "code": "SHIRT01",
+        "img": [
+            "https://i.ibb.co/L6FZdbP/shirt1.jpg"
+        ],
+        "description": "SHIRT COLLECTION",
+        "offerPrice": 820,
+        "price": 1190,
+        "onStock": 10,
+        "category": "shirt",
+        "specialCategory": "Formal Shirt",
+        "speciality": "new arrival",
+        "tag": "Formal",
+        "gender": "male",
+        "sizes": [
+            {
+                "size": 38,
+                "qty": 1
+            },
+            {
+                "size": 40,
+                "qty": 3
+            },
+            {
+                "size": 42,
+                "qty": 6
+            },
+            {
+                "size": 44,
+                "qty": 0
+            }
+        ]
+    },
+    {
+        "name": "PREMIUM SHIRT",
+        "code": "SHIRT02",
+        "img": [
+            "https://i.ibb.co/1fjQBk0/shirt2.jpg",
+            "https://iconshopper.com/storage/474/660993f4204db_Untitled-12.jpg",
+            "https://iconshopper.com/storage/475/660993f612185_Untitled-13.jpg",
+            "https://iconshopper.com/storage/476/660993f78c3f1_Untitled-7.jpg"
+        ],
+        "description": "SHIRT COLLECTION",
+        "offerPrice": 820,
+        "price": 1190,
+        "onStock": 10,
+        "category": "shirt",
+        "specialCategory": "Formal Shirt",
+        "speciality": "new arrival",
+        "tag": "Formal",
+        "gender": "male",
+        "sizes": [
+            {
+                "size": 38,
+                "qty": 1
+            },
+            {
+                "size": 40,
+                "qty": 3
+            },
+            {
+                "size": 42,
+                "qty": 6
+            },
+            {
+                "size": 44,
+                "qty": 0
+            }
+        ]
+    },
+    {
+        "name": "VALOR SHIRT",
+        "code": "SHIRT03",
+        "img": [
+            "https://i.ibb.co/pbyqFRT/shirt3.jpg"
+        ],
+        "description": "SHIRT COLLECTION",
+        "offerPrice": 880,
+        "price": 1290,
+        "onStock": 10,
+        "category": "shirt",
+        "specialCategory": "Formal Shirt",
+        "speciality": "trendy",
+        "tag": "Formal",
+        "gender": "male",
+        "sizes": [
+            {
+                "size": 38,
+                "qty": 1
+            },
+            {
+                "size": 40,
+                "qty": 3
+            },
+            {
+                "size": 42,
+                "qty": 6
+            },
+            {
+                "size": 44,
+                "qty": 0
+            }
+        ]
+    },
+    {
+        "name": "VALOR SHIRT",
+        "code": "SHIRT04",
+        "img": [
+            "https://i.ibb.co/KLhtzxC/shirt4.jpg"
+        ],
+        "description": "SHIRT COLLECTION",
+        "offerPrice": 880,
+        "price": 1290,
+        "onStock": 10,
+        "category": "shirt",
+        "specialCategory": "Formal Shirt",
+        "speciality": "popular",
+        "tag": "Formal",
+        "gender": "male",
+        "sizes": [
+            {
+                "size": 38,
+                "qty": 1
+            },
+            {
+                "size": 40,
+                "qty": 3
+            },
+            {
+                "size": 42,
+                "qty": 6
+            },
+            {
+                "size": 44,
+                "qty": 0
+            }
+        ]
+    },
+    {
+        "name": "VALOR SHIRT",
+        "code": "SHIRT05",
+        "img": [
+            "https://i.ibb.co/4FJwF70/shirt5.jpg"
+        ],
+        "description": "SHIRT COLLECTION",
+        "offerPrice": 880,
+        "price": 1290,
+        "onStock": 10,
+        "category": "shirt",
+        "specialCategory": "Formal Shirt",
+        "speciality": "new arrival",
+        "tag": "Formal",
+        "gender": "male",
+        "sizes": [
+            {
+                "size": 38,
+                "qty": 1
+            },
+            {
+                "size": 40,
+                "qty": 3
+            },
+            {
+                "size": 42,
+                "qty": 6
+            },
+            {
+                "size": 44,
+                "qty": 0
+            }
+        ]
+    },
+    {
+        "name": "PREMIUM CASUAL SHIRT",
+        "code": "SHIRT06",
+        "img": [
+            "https://i.ibb.co/CnTz7QS/shirt6.jpg"
+        ],
+        "description": "SHIRT COLLECTION",
+        "offerPrice": 840,
+        "price": 1230,
+        "onStock": 10,
+        "category": "shirt",
+        "specialCategory": "Casual Shirt",
+        "speciality": "trendy",
+        "tag": "Casual",
+        "gender": "male",
+        "sizes": [
+            {
+                "size": 38,
+                "qty": 1
+            },
+            {
+                "size": 40,
+                "qty": 3
+            },
+            {
+                "size": 42,
+                "qty": 6
+            },
+            {
+                "size": 44,
+                "qty": 0
+            }
+        ]
+    },
+    {
+        "name": "PREMIUM CASUAL SHIRT",
+        "code": "SHIRT07",
+        "img": [
+            "https://i.ibb.co/HT6cbNv/shirt7.jpg"
+        ],
+        "description": "SHIRT COLLECTION",
+        "offerPrice": 840,
+        "price": 1230,
+        "onStock": 10,
+        "category": "shirt",
+        "specialCategory": "Casual Shirt",
+        "speciality": "trendy",
+        "tag": "Casual",
+        "gender": "male",
+        "sizes": [
+            {
+                "size": 38,
+                "qty": 1
+            },
+            {
+                "size": 40,
+                "qty": 3
+            },
+            {
+                "size": 42,
+                "qty": 6
+            },
+            {
+                "size": 44,
+                "qty": 0
+            }
+        ]
+    },
+    {
+        "name": "PREMIUM CASUAL SHIRT",
+        "code": "SHIRT08",
+        "img": [
+            "https://i.ibb.co/9pWHFj6/shirt8.jpg"
+        ],
+        "description": "SHIRT COLLECTION",
+        "offerPrice": 840,
+        "price": 1230,
+        "onStock": 10,
+        "category": "shirt",
+        "specialCategory": "Casual Shirt",
+        "speciality": "new arrival",
+        "tag": "Casual",
+        "gender": "male",
+        "sizes": [
+            {
+                "size": 38,
+                "qty": 1
+            },
+            {
+                "size": 40,
+                "qty": 3
+            },
+            {
+                "size": 42,
+                "qty": 6
+            },
+            {
+                "size": 44,
+                "qty": 0
+            }
+        ]
+    },
+    {
+        "name": "PREMIUM CASUAL SHIRT",
+        "code": "SHIRT09",
+        "img": [
+            "https://i.ibb.co/85zKKcc/shirt9.jpg"
+        ],
+        "description": "SHIRT COLLECTION",
+        "offerPrice": 840,
+        "price": 1230,
+        "onStock": 10,
+        "category": "shirt",
+        "specialCategory": "Casual Shirt",
+        "speciality": "new arrival",
+        "tag": "Casual",
+        "gender": "male",
+        "sizes": [
+            {
+                "size": 38,
+                "qty": 1
+            },
+            {
+                "size": 40,
+                "qty": 3
+            },
+            {
+                "size": 42,
+                "qty": 6
+            },
+            {
+                "size": 44,
+                "qty": 0
+            }
+        ]
+    },
+    {
+        "name": "PREMIUM CASUAL SHIRT",
+        "code": "SHIRT10",
+        "img": [
+            "https://i.ibb.co/3FhBhqS/shirt10.jpg"
+        ],
+        "description": "SHIRT COLLECTION",
+        "offerPrice": 840,
+        "price": 1230,
+        "onStock": 10,
+        "category": "shirt",
+        "specialCategory": "Casual Shirt",
+        "speciality": "new arrival",
+        "tag": "Casual",
+        "gender": "male",
+        "sizes": [
+            {
+                "size": 38,
+                "qty": 1
+            },
+            {
+                "size": 40,
+                "qty": 3
+            },
+            {
+                "size": 42,
+                "qty": 6
+            },
+            {
+                "size": 44,
+                "qty": 0
+            }
+        ]
+    }
+]

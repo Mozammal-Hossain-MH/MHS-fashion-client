@@ -1,0 +1,55 @@
+.navTab li a .icons svg{
+    width: 100%;
+    height: 100%;
+    color: #222;
+    transition: .2s;
+}
+.navTab li a .icons svg:last-child{
+    color: #2196f3;
+    transform: translateY(-230%);
+}
+.navTab li:hover a svg{
+    transform: translateY(130%);
+}
+.navTab li:hover a svg:last-child{
+    transform: translateY(-100%);
+}
+.navTab li a .text span::before{
+    content: attr(data-text);
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    color: #2196f3;
+}
+.navTab li:hover a .text span{
+    transform: translateY(-100%);
+}
+
+.navTab li:hover a .angle-icon{
+    transform: translateY(100%);
+}
+
+.category ul li a span::before{
+    content: attr(data-text);
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    color: #2196f3;
+}
+
+.category ul li:hover a span{
+    transform: translateY(-100%);
+}
+
+@media (min-width: 1024px) {
+    .category:hover ul{
+        transform: translate(-24px, 0);
+        transition: transform 0.1s ease-out;
+        padding: 20px;
+        height: auto;
+    }
+}

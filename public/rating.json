@@ -1,0 +1,53 @@
+[
+    {
+      "name": "Alice",
+      "rating": 4,
+      "review": "Great website! Easy to navigate and find what I need. The checkout process was smooth and hassle-free."
+    },
+    {
+      "name": "Bob",
+      "rating": 5,
+      "review": "I love this website! The selection is amazing, and the prices are unbeatable. Plus, the shipping is super fast!"
+    },
+    {
+      "name": "Charlie",
+      "rating": 3,
+      "review": "Overall, it's a decent website. However, I encountered some issues with the payment gateway, which was frustrating."
+    },
+    {
+      "name": "David",
+      "rating": 2,
+      "review": "Not impressed with this website. The user interface is clunky, and the product descriptions are lacking. Definitely needs improvement."
+    },
+    {
+      "name": "Eve",
+      "rating": 5,
+      "review": "Amazing experience! I've been shopping here for years, and I've never been disappointed. The customer service is top-notch!"
+    },
+    {
+      "name": "Frank",
+      "rating": 4,
+      "review": "This website has a good variety of products. The prices are reasonable, and the quality is decent. I'll definitely shop here again."
+    },
+    {
+      "name": "Grace",
+      "rating": 3,
+      "review": "It's an okay website. I wish they had more options for certain products. The checkout process could be smoother."
+    },
+    {
+      "name": "Henry",
+      "rating": 4,
+      "review": "I'm satisfied with my shopping experience on this website. The delivery was prompt, and the product exceeded my expectations."
+    },
+    {
+      "name": "Isabel",
+      "rating": 5,
+      "review": "I've recommended this website to all my friends! The prices are unbeatable, and the customer service is exceptional."
+    },
+    {
+      "name": "Jack",
+      "rating": 2,
+      "review": "Disappointing experience. The website was slow to load, and the product I received was not as described. Won't be shopping here again."
+    }
+  ]
+  
