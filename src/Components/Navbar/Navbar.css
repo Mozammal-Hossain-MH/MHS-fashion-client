@@ -45,7 +45,7 @@
     transform: translateY(-100%);
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 1280px) {
     .category:hover ul{
         transform: translate(-24px, 0);
         transition: transform 0.1s ease-out;

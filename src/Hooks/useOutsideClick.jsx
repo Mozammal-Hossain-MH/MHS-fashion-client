@@ -1,8 +1,10 @@
 import { useEffect, useState } from "react";
+import { useLocation } from "react-router-dom";
 
 
 const useOutsideClick = ref => {
     const [isClicked, setIsClicked] = useState(false);
+    const location = useLocation()
 
     useEffect(() => {
         const handleClickOutside = e => {
@@ -14,12 +16,16 @@ const useOutsideClick = ref => {
             }
         }
 
-        document.addEventListener('mousedown', handleClickOutside)
+
+        document.addEventListener('mousedown', handleClickOutside);
 
         return () => {
-            document.removeEventListener('mousedown', handleClickOutside)
+            document.removeEventListener('mousedown', handleClickOutside);
         }
     }, [ref])
+    useEffect(() => {
+        setIsClicked(true)
+    }, [location])
     return isClicked;
 };
 

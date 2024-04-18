@@ -5,6 +5,7 @@ import RatingCard from "../../../Components/RatingCard/RatingCard";
 
 const ProductSlider = ({ items, id, rating, isRunning }) => {
     const box = document.getElementById(`${id}`);
+
     const [cardWidth, setCardWidth] = useState(0);
     const [startX, setStartX] = useState(null);
 
@@ -50,13 +51,11 @@ const ProductSlider = ({ items, id, rating, isRunning }) => {
 
     useEffect(() => {
         const interval = setInterval(() => {
+            items.forEach(() => {
+                setCardWidth(box.querySelector('div').clientWidth + 11.5);
+            });
             if (isRunning) {
                 if (box) {
-
-                    items.forEach(() => {
-                        setCardWidth(box.querySelector('div').clientWidth + 11.5);
-                    });
-
                     box.scrollLeft = box.scrollLeft + cardWidth
                     if (box.clientWidth + Math.ceil(box.scrollLeft) >= box.scrollWidth) {
                         box.scrollLeft = 0;

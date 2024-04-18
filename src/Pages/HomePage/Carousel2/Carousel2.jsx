@@ -46,10 +46,11 @@ const Carousel2 = ({ img, running, borderWidth, borderClr, dots }) => {
                     className={`flex transition-transform ease-out duration-500`}
                     style={{ transform: `translateX(-${curr * 100}%)` }}
                 >
-                    {
-                        img.map((pic, index) => <img className={`w-full`} key={index} src={pic} />)
-                    }
+                    {img.map((pic, index) => <img className={`w-full`} key={index} src={pic} />)}
                 </div>
+
+
+
                 <button onClick={prev} className="absolute z-10 top-1/2 left-2 px-4 py-1 rounded-full shadow text-4xl bg-white/50 text-gray-700 transition-all hover:bg-white/30 hover:scale-110 active:scale-90">
                     <span>&#10094;</span>
                 </button>

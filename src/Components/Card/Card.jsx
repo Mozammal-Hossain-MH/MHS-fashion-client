@@ -33,7 +33,13 @@ const Card = ({ item, slider }) => {
                 </div>
             </div>
             <div className="absolute w-full transition-[color] duration-500 hover:text-[#fff] bottom-0">
-                <AddToCart slider={slider}></AddToCart>
+                <Link to={`/product/${_id}`}>
+                    <AddToCart
+                        slider={slider}
+                        id={_id}
+                        goToDetails={true}
+                    ></AddToCart>
+                </Link>
             </div>
         </div>
     );

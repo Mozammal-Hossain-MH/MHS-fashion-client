@@ -20,7 +20,7 @@ const CollectionBar = () => {
         </li>
     </>
     return (
-        <ul className="collection flex flex-col lg:flex-row items-center justify-center">
+        <ul className="collection flex flex-col xl:flex-row items-center justify-center">
             {collections}
         </ul>
     );

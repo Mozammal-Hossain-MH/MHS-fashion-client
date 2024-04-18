@@ -71,7 +71,7 @@ const Home = () => {
                 </SectionTitle>
                 <PopularCollection></PopularCollection>
             </div>
-            <div className="max-w-screen-xl mx-auto px-3 space-y-10">
+            <div className="max-w-screen-xl mx-auto px-3 pb-20 space-y-10">
                 <SectionTitle
                     topTitle={'What Customers Says?'}
                     bottomTitle={'Ratings Of MHS'}
@@ -83,7 +83,6 @@ const Home = () => {
                 ></ProductSlider>
             </div>
 
-            <div className='h-40'></div>
             <Footer></Footer>
         </div>
     );

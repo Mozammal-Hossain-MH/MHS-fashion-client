@@ -5,21 +5,26 @@ import Footer from '../../Components/Footer/Footer';
 import { FaCopy } from 'react-icons/fa';
 import { useState } from 'react';
 import AddToCart from '../../Components/Buttons/AddToCart';
+import Tabs from '../../Components/Tabs/Tabs';
+import Card from '../../Components/Card/Card';
 
 
 const ProductDetails = () => {
     const { id } = useParams();
     const [items] = useGetItems(`/product/${id}`);
-    // console.log(items)
-    const { img, gender, speciality, name, offerPrice, code, specialCategory, sizes } = items;
+    const { img, gender, speciality, name, offerPrice, code, specialCategory, sizes, category } = items;
     const [isCopied, setIsCopied] = useState(false);
     const [selectedSize, setSelectedSize] = useState(null);
     const [selectedQuantity, setSelectedQuantity] = useState(1);
     const options = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-    console.log(selectedQuantity);
+    const relatedItems = useGetItems(`/related/${category}`);
 
     const selectedSizeInfo = sizes?.find(size => size.size === selectedSize);
-
+    
+    const productInfo = {
+        size: selectedSize,
+        quantity: selectedQuantity
+    }
 
     const copySKU = () => {
         navigator.clipboard.writeText(code);
@@ -121,8 +126,12 @@ const ProductDetails = () => {
                                     </select>
                                 : <p className='text-red-500'>Please Select a Size</p>
                         }
-                        <div className={`transition-[color] duration-500 ${(!selectedSize || selectedSizeInfo?.qty === 0) || 'hover:text-[#fff]'} w-20`}>
-                            <AddToCart disabled={(!selectedSize && true) || (selectedSizeInfo?.qty === 0 && true)}></AddToCart>
+                        <div className={`transition-[color] duration-500 ${(!selectedSize || (selectedSizeInfo?.qty === 0)) || 'hover:text-[#fff]'} w-20`}>
+                            <AddToCart
+                            productInfo={productInfo}
+                                id={id}
+                                disable={(!selectedSize ? true : false) || (selectedSizeInfo?.qty === 0 ? true : false)}
+                            ></AddToCart>
                         </div>
                     </div>
 
@@ -142,6 +151,20 @@ const ProductDetails = () => {
                         </thead>
                     </table>
 
+                </div>
+            </div>
+            <div className='max-w-screen-xl mx-auto p-6 bg-[#F5F6F7] rounded'>
+                <Tabs></Tabs>
+            </div>
+            <div className='max-w-screen-xl mx-auto px-3 space-y-5'>
+                <h3 className='text-2xl font-bold'>Related Products</h3>
+                <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6">
+                    {
+                        relatedItems && relatedItems[0].map(item => <Card
+                            key={item._id}
+                            item={item}
+                        ></Card>)
+                    }
                 </div>
             </div>
             <div className='pt-40'>

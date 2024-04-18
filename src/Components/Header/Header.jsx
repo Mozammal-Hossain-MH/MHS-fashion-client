@@ -22,7 +22,7 @@ const Header = () => {
     return (
         <header className={`fixed  ${scrolled ? 'top-0' : 'top-6'} w-full z-50`}>
             <Navbar scrolled={scrolled}></Navbar>
-            <div className="hidden lg:block">
+            <div className="hidden xl:block">
                 {
                     scrolled || <div className='bg-[#f6f6f6] w-full h-12 flex justify-center items-center'>
                         <CollectionBar></CollectionBar>
